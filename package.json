@@ -1,0 +1,22 @@
+{
+  "name": "nd-0067-c1-building-a-server-project-starter-master",
+  "version": "1.0.0",
+  "description": "building a server project starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdullahGhanem/nd-0067-c1-building-a-server-project-starter.git"
+  },
+  "keywords": [
+    "udacity"
+  ],
+  "author": "Abdullah Ghanem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdullahGhanem/nd-0067-c1-building-a-server-project-starter/issues"
+  },
+  "homepage": "https://github.com/AbdullahGhanem/nd-0067-c1-building-a-server-project-starter#readme"
+}
