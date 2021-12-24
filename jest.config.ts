@@ -1,4 +1,4 @@
 export default {
-    collectCoverage: false,
-    preset: 'ts-jest',
+  collectCoverage: false,
+  preset: 'ts-jest'
 };

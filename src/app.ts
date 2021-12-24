@@ -6,7 +6,7 @@ const app = express();
 app.use(morgan('tiny'));
 
 app.get('/', (_: Request, res: Response): void => {
-    res.send('sever is working');
+  res.send('sever is working');
 });
 
 app.use('/api', routes);
