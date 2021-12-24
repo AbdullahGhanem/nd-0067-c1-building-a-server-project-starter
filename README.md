@@ -27,6 +27,11 @@ yarn run build
 # or
 npm run build
 ```
+## Test
+
+```bash
+yarn test # npm test
+```
 
 ### Api Request
 
